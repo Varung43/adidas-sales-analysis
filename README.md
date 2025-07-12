@@ -66,6 +66,9 @@ Adidas-Sales-PowerBI/
 │ └── adidas_dashboard.png
 └── README.md
 
+## 🖼️ Dashboard Screenshots
+![Adidas Dashboard Screenshot](dashboard.png)
+
 ## ✅ Conclusion
 
 This Power BI dashboard provides a complete overview of Adidas sales performance across various dimensions. It helps in making strategic decisions related to regional focus, pricing, inventory, and marketing.
