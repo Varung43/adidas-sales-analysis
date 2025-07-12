@@ -55,10 +55,6 @@ Adidas needed to understand its U.S. sales performance by product, region, retai
   - West region and West Gear identified as top performer
 - Helped simulate business decisions on performance trends, regions, and product categories.
 
-## 🖼️ Dashboard Screenshots
-
-![Adidas Dashboard Screenshot](dashboard.png)
-
 ## 📁 Project Structure
 
 Adidas-Sales-PowerBI/
