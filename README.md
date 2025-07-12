@@ -67,7 +67,7 @@ Adidas-Sales-PowerBI/
 └── README.md
 
 ## 🖼️ Dashboard Screenshots
-![Adidas Dashboard Screenshot](dashboard.png)
+![Adidas Dashboard Screenshot](dashboard.png.jpg)
 
 ## ✅ Conclusion
 
