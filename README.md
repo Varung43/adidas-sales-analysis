@@ -21,7 +21,6 @@ This dashboard provides a detailed analysis of Swiggy's restaurant dataset, focu
 Adidas needed to understand its U.S. sales performance by product, region, retailer, and time to make better decisions around distribution and marketing.
 
 ⚙️ Challenges Faced
-- Large Excel file with inconsistent fields and raw format.
 - Profit margin and monthly metrics were not given — had to be calculated manually.
 - Had to balance many insights (regions, products, retailers, months) in a single dashboard.
 
@@ -37,9 +36,6 @@ Adidas needed to understand its U.S. sales performance by product, region, retai
   - West region and West Gear identified as top performer
 - Helped simulate business decisions on performance trends, regions, and product categories.
 
-
-
-![Swiggy Dashboard](Swiggy_data_analysis.jpg)
 
 ---
 **Created by:** Varun G
